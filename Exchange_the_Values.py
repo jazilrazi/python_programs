@@ -14,7 +14,7 @@ value_one = value_one - value_two
 print("Value one After Exchange",value_one)
 print("Value two After Exchange",value_two)
 
-#                                   if the values is not given
+#                                    if the values is not given
 
 value_1 = int(input("enter the number:"))
 value_2 = int(input("enter the number:"))
